@@ -88,6 +88,115 @@ PROGRAM -8
 
 
 
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/9032202b-99aa-4198-ba82-decdf6d9df29" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...............................................................................................................................................
+
+program9
+
+
+<img width="782" height="590" alt="image" src="https://github.com/user-attachments/assets/752cb6a5-d4c3-4e73-9913-0d60f2f986fb" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/b29820e6-0369-44c4-a8bc-560c487101d7" />
+
+
+
+
+................................................................................................................................................
+
+
+
+program10
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1025" alt="image" src="https://github.com/user-attachments/assets/54b0d9ff-7690-44d6-8c2d-cae869c3b9fd" />
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="788" height="595" alt="image" src="https://github.com/user-attachments/assets/bce208e6-1918-46d5-b6ff-456eae7eeb24" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
